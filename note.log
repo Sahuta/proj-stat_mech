@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.12.16)  13 MAR 2022 22:55
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.12.16)  27 MAR 2022 23:20
  restricted system commands enabled.
 **note.tex
 (./note.tex
@@ -1533,78 +1533,67 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Font shape `JT3/mc/m/n' will be
+(Font)              scaled to size 13.31586pt on input line 109.
+LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
+(Font)              scaled to size 13.31586pt on input line 109.
 LaTeX Font Info:    Font shape `JT3/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 108.
+(Font)              scaled to size 13.31586pt on input line 109.
+LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
+(Font)              scaled to size 13.31586pt on input line 109.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmss' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- [2
-
-]
-LaTeX Font Info:    Font shape `JT3/mc/m/n' will be
-(Font)              scaled to size 23.00687pt on input line 108.
-LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
-(Font)              scaled to size 23.00687pt on input line 108.
 LaTeX Font Info:    Font shape `JT3/gt/m/n' will be
-(Font)              scaled to size 23.00687pt on input line 108.
+(Font)              scaled to size 11.09656pt on input line 112.
 LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
-(Font)              scaled to size 23.00687pt on input line 108.
- (./note.toc)
-\tf@toc=\write3
-
-\openout3 = note.toc
- [3]
-LaTeX Font Info:    Font shape `JT3/mc/m/n' will be
-(Font)              scaled to size 13.31586pt on input line 113.
-LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
-(Font)              scaled to size 13.31586pt on input line 113.
+(Font)              scaled to size 11.09656pt on input line 112.
 LaTeX Font Info:    Font shape `JT3/gt/m/n' will be
-(Font)              scaled to size 13.31586pt on input line 113.
-LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
-(Font)              scaled to size 13.31586pt on input line 113.
+(Font)              scaled to size 9.24713pt on input line 118.
+LaTeX Font Info:    Font shape `JT3/gt/b/n' in size <10> not available
+(Font)              Font shape `JT3/gt/m/n' tried instead on input line 118.
 LaTeX Font Info:    Font shape `JT3/gt/m/n' will be
-(Font)              scaled to size 11.09656pt on input line 116.
+(Font)              scaled to size 9.24713pt on input line 118.
+LaTeX Font Info:    Font shape `JY3/gt/b/n' in size <10> not available
+(Font)              Font shape `JY3/gt/m/n' tried instead on input line 118.
 LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
-(Font)              scaled to size 11.09656pt on input line 116.
-<images/micro_macro.drawio.png, id=28, 733.74126pt x 466.74374pt>
+(Font)              scaled to size 9.24713pt on input line 118.
+<images/micro_macro.drawio.png, id=11, 733.74126pt x 466.74374pt>
 File: images/micro_macro.drawio.png Graphic file (type png)
 <use images/micro_macro.drawio.png>
 Package luatex.def Info: images/micro_macro.drawio.png  used on input line 129.
 (luatex.def)             Requested size: 369.89264pt x 235.29422pt.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 141.
- [4<./images/micro_macro.drawio.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 141.
+ [2<./images/micro_macro.drawio.png>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 181.
+
+[3]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 181.
  (./note.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 141.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 141.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 181.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 181.
 )
 
 Here is how much of LuaTeX's memory you used:
- 22296 strings out of 481365
- 125171,953878 words of node,token memory allocated
- 8922 words of node memory still in use:
-   10 hlist, 2 vlist, 5 rule, 3 glue, 144 kern, 1 glyph, 3312 attribute, 180 glu
-e_spec, 186 attribute_list, 1 write, 14 user_defined nodes
-   avail lists: 1:10,2:33575,3:206,4:115,5:37,6:21,7:2910,8:14,9:1412,10:26,11:2
+ 22280 strings out of 481365
+ 156465,953878 words of node,token memory allocated
+ 8448 words of node memory still in use:
+   10 hlist, 2 vlist, 5 rule, 2 glue, 127 kern, 1 glyph, 2983 attribute, 242 glu
+e_spec, 169 attribute_list, 1 write, 14 user_defined nodes
+   avail lists: 1:30,2:43803,3:220,4:139,5:20,6:28,7:3938,8:14,9:1916,10:21,11:2
 
- 38488 multiletter control sequences out of 65536+600000
- 88 fonts using 47998223 bytes
- 67i,9n,115p,988b,443s stack positions out of 5000i,500n,10000p,200000b,100000s
-</usr/share/texmf/fonts/opentype/public/lm-math/latinmodern-math.otf></usr/share
-/texmf/fonts/opentype/public/lm/lmsans12-regular.otf></usr/share/texmf/fonts/ope
-ntype/public/lm/lmroman10-regular.otf></usr/share/fonts/truetype/fonts-japanese-
-gothic.ttf></usr/share/texmf/fonts/opentype/public/lm/lmroman10-bold.otf></usr/s
-hare/texmf/fonts/opentype/public/lm/lmroman12-regular.otf></usr/share/fonts/true
-type/fonts-japanese-mincho.ttf>
-Output written on note.pdf (4 pages, 300241 bytes).
+ 38483 multiletter control sequences out of 65536+600000
+ 85 fonts using 43854599 bytes
+ 67i,10n,115p,988b,445s stack positions out of 5000i,500n,10000p,200000b,100000s
+</usr/share/texmf/fonts/opentype/public/lm/lmroman10-regular.otf></usr/share/fon
+ts/truetype/fonts-japanese-gothic.ttf></usr/share/texmf/fonts/opentype/public/lm
+/lmsans12-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman10-bold.
+otf></usr/share/texmf/fonts/opentype/public/lm/lmroman12-regular.otf></usr/share
+/fonts/truetype/fonts-japanese-mincho.ttf>
+Output written on note.pdf (3 pages, 336761 bytes).
 
-PDF statistics: 95 PDF objects out of 1000 (max. 8388607)
- 65 compressed objects within 1 object stream
+PDF statistics: 79 PDF objects out of 1000 (max. 8388607)
+ 53 compressed objects within 1 object stream
  12 named destinations out of 1000 (max. 131072)
- 17 words of extra memory for PDF output out of 10000 (max. 100000000)
+ 9 words of extra memory for PDF output out of 10000 (max. 100000000)
 
